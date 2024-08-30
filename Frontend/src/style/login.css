@@ -1,0 +1,20 @@
+body{
+    background-color: #eee;
+}
+.container{
+  max-width: 600px;
+  max-height: 600px;
+  margin: 80px auto;
+  border: 1px solid #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+button{
+    width: 100%;
+}
